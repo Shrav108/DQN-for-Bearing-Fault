@@ -12,6 +12,11 @@
 ![](https://github.com/Shrav108/DQN-for-Bearing-Fault/blob/main/Pictures/Quiz.PNG)
 
 
+### RL Training
+
+![](https://github.com/Shrav108/DQN-for-Bearing-Fault/blob/main/Pictures/RL%20Training.PNG)
+
+
 #### Description:
 1. In this project, bearing fault classification is done with the help of Deep Q Learning method.
 2. A Deep Reinforcement Learning Agent is used to predict whether vibration data of a bearing state is in
