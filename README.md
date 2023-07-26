@@ -14,7 +14,7 @@
 
 ### RL Training
 
-![](https://github.com/Shrav108/DQN-for-Bearing-Fault/blob/main/Pictures/RL%20Training.PNG)
+
 
 
 #### Description:
